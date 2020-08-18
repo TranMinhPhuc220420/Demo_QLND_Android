@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quản lý nhân sự</string>
+    <string name="txt_fullname">Họ và Tên:</string>
+    <string name="txt_level">Bằng cấp</string>
+    <string name="txt_tc">TC</string>
+    <string name="txt_cd">CĐ</string>
+    <string name="txt_dh">ĐH</string>
+    <string name="txt_interests">Sở thích</string>
+    <string name="txt_read_book">Đọc sách</string>
+    <string name="txt_wacth_movie">Xem phim</string>
+    <string name="txt_other">Khác</string>
+    <string name="txt_add">Thêm</string>
+    <string name="txt_exit">Thoát</string>
+    <string name="txt_update">Update</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_save">Save</string>
+</resources>
